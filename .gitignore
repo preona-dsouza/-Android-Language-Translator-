@@ -1,0 +1,21 @@
+﻿# Android Studio
+.idea/
+*.iml
+
+# Gradle
+.gradle/
+**/build/
+
+# Local Android SDK
+local.properties
+
+# Native build files
+.cxx/
+.externalNativeBuild/
+
+# Generated files
+captures/
+.DS_Store
+
+# Firebase configuration
+app/google-services.json
